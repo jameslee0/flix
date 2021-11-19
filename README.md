@@ -19,8 +19,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/bxaiTE4.gif)
-" width=250><br>
+![](https://i.imgur.com/bxaiTE4.gif)
+
 
 ### Notes
 Some challenges that I came upon were dealing with API's and getting used to their style of format, and also remembering to keep the class names and variables in check as to not get their names incorrect.
